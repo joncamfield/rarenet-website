@@ -2,7 +2,7 @@
 layout: archive-wide
 classes:
   - wide
-permalink: /news/
+permalink: /news
 title: "News"
 author_profile: false
 header:

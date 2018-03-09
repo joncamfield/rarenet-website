@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Home"
+    url: https://RaReNet.org
+  - title: "About"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "Contact"
+    url: /contact/
+  - title: "News"
+    url: /news/

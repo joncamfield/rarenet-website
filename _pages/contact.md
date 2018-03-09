@@ -2,7 +2,7 @@
 layout: single
 
 title: "RARENET: Contact"
-permalink: contact
+permalink: /contact/
 excerpt: "RARENET coordinates member efforts by sharing emergency cases and knowledge on digital emergencies"
 header:
   overlay_image: /images/jeremy-bishop-266162-unsplash.jpg

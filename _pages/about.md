@@ -2,7 +2,7 @@
 layout: single
 
 title: "RARENET: About"
-permalink: about
+permalink: /about/
 excerpt: "RARENET coordinates member efforts by sharing emergency cases and knowledge on digital emergencies"
 header:
   overlay_image: /images/annalise-braught-19352-unsplash.jpg

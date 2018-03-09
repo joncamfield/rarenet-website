@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "RARENET: Projects"
-permalink: projects
+permalink: /projects/
 
 excerpt: "Rarenet runs joint activities that aim to improve coordinated response, education and advocacy in cyber security threats affecting civil society and activism online."
 header:

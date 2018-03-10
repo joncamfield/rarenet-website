@@ -83,3 +83,5 @@ In addition, it should also be noted that the member that invites a new member t
 ## MODIFICATION TO THIS DOCUMENT
 
 Modifications in the mission letter have to be accepted by 2/3 of the members within two weeks.
+
+--------

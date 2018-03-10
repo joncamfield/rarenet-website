@@ -15,9 +15,9 @@ title                    : "RARENET | Rapid response network"
 title_separator          : "-"
 name                     : ""
 description              : "RARENET runs joint activities that aim to improve coordinated response, education and advocacy in cyber security threats affecting civil society and activism online"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+url                      : https://joncamfield.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : rarenet-website # the subpath of your site, e.g. "/blog"
+repository               : joncamfield/rarenet-website # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /images/rare_1_grey-1591x500.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200

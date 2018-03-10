@@ -4,6 +4,8 @@ main:
     url: https://RaReNet.org
   - title: "About"
     url: /about
+  - title: "Membership"
+    url: /membership
   - title: "Projects"
     url: /projects
   - title: "Contact"

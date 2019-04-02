@@ -2,7 +2,7 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <a class="site-title" href="{{ '/' | absolute_url }}"><img src="images/logo_m.png" alt="RARENET" title="RARENET: The Rapid Response Network" /></a>
+        <a class="site-title" href="{{ '/' | absolute_url }}"><img src="{{ '/' | absolute_url }}images/logo_m.png" alt="RARENET" title="RARENET: The Rapid Response Network" /></a>
         <ul class="visible-links">
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
